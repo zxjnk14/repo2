@@ -1,0 +1,7 @@
+name: git_test
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - nbdime
