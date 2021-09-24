@@ -1,1 +1,2 @@
 This is a new file.
+User 1 inserting the second line.
